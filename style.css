@@ -14,3 +14,10 @@ body {
 .carousel {
   margin-top: 56px;
 }
+hr {
+  position: relative;
+
+  border: none;
+  height: 5px;
+  background: black;
+}
